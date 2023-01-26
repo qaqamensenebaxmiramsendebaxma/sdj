@@ -231,14 +231,14 @@ UNBAN_BUTTON : "⛔Asistanın Banını Açın"
 L_B_1 : "🚀 İndi Mahnıları yoxlayın"
 
 # Start
-S_B_1 : "🗒 Əmrlər"
-S_B_2 : "🔧 Parametrlər"
-S_B_3 : "📨 Dəstək"
-S_B_4 : "📨 Kanal"
-S_B_5 : "✚ Məni öz qrupuna əlavə et"
+S_B_1 : "👑Əmrlər"
+S_B_2 : "🔧Parametrlər"
+S_B_3 : "🆘Dəstək"
+S_B_4 : "⚡Kanal"
+S_B_5 : "➕Qrupa əlavə Et➕"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Sahibi"
-S_B_8 : "🔎 Necə İstifadə Edilir? Komandalar Menyu."
+S_B_7 : "👤Botun Sahibi"
+S_B_8 : "👑Əmrlər"
 
 #Help 
 H_B_1 : "Admin Əmrləri"
